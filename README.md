@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Fernando</h1>
 <h3 align="center">A Passionate Backend Software Engineer</h3>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/pavan-fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/pavan-fernando" height="30" width="40" /></a>
 <a href="https://fb.com/pavan-fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pavan-fernando" height="30" width="40" /></a>
