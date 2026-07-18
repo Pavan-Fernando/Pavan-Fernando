@@ -8,12 +8,6 @@
   <a href="https://fb.com/pavan-fernando" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/pavan-fernando" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/pavan-fernando" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
-  </a>
 </p>
 
 ---
